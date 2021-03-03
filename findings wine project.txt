@@ -1,0 +1,49 @@
+on high quality there are almost no outliers
+
+
+fixed acidity - 
+mean is higher in red wine
+quality = no difference
+
+volatile acidity 
+mean higher in red wine
+quality - lower volatile acidity higher quality
+
+citrid acid 
+mean is higher in white wine
+quality - higher citric acidd higher quality
+
+residual sugar
+mean is more than 2 times higher in white wine
+standard deviation is more than 3 times higher in white wine
+max residual sugar is way higher in white wine
+quality - no big difference but also the lower the better
+
+chlorides
+mean, standard deviation and other descriptive statistics are two times higher in red wine
+quality - lower chlorides higher quality
+
+free sulfur dioxide 
+mean and other descriptive statistics are way higher in white wine 
+quality - on red wine, the lower the better
+
+total sulfur dioxide
+mean and other descriptive statistics are way higher in white wine
+quality - lower total sulfur dioxide higher quality
+
+density
+mean slightly higher on red wine
+quality - lower density better quality
+
+pH
+mean is higher on red wine
+quality - on red wine the lower the better
+on wite wine the higher the better
+
+sulphates (more headache)
+mean and other descriptive statistics are way higher in red wine
+quality - red wine the higher the better
+on white wine is not clear
+
+alcohol
+quality - the higher the better
